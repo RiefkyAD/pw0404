@@ -19,6 +19,9 @@ div.konten{
 	overflow: hidden;
 }
 
+
+
+
 div.kepala{
 	background: #CC00FF;
 	padding: 20px 22px;
@@ -29,8 +32,9 @@ div.kepala{
 div.kepala h2.judul{
 	color: #ffffff;
 	font-weight: normal;
+	text-align:center;
 	line-height: 40px;
-	font-size: 80px;
+	font-size: 30px;
 
 }
 
