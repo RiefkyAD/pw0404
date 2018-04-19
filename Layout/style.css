@@ -103,7 +103,7 @@ nav.menu ul a:hover {
 	float:left;
 }
  
-.conteudo {
+.ISI {
 	width:600px;
 	padding:25px;
 	margin:25px auto;
@@ -114,13 +114,13 @@ nav.menu ul a:hover {
 	box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.35);
 }
  
-.conteudo img {
+.ISI img {
 	min-width: 650px;
 	margin:0 0 25px -25px;
 	max-width: 650px;
 }
  
-.conteudo h1 {
+.ISI h1 {
 	padding:0;
 	margin:0 0 15px;
 	font-weight: normal;
@@ -128,18 +128,18 @@ nav.menu ul a:hover {
 	font-family: Georgia;
 }
  
-.conteudo p:last-child {
+.ISI p:last-child {
 	margin: 0;
 }
  
-.conteudo .continue-lendo {
+.ISI .Selengkapnya {
 	color:#000;
 	transition: all 0.5s ease;
 	text-decoration: none;
 	font-weight: 700; 
 }
  
-.conteudo .continue-lendo:hover {
+.ISI .Selengkapnya:hover {
 	margin-left:10px;
 }
  
@@ -194,7 +194,7 @@ nav.menu ul a:hover {
 		width:90%;
 	}
  
-	.conteudo {
+	.ISI {
 		float:inherit;
 		margin:0 auto 25px;
 		width:101%;
@@ -203,13 +203,13 @@ nav.menu ul a:hover {
 		background: #fff;
 	}
  
-	.conteudo img {
+	.ISI img {
 		max-width: 110%;
 		margin:0 0 25px -5%;
 		min-width: 110%;
 	}
  
-	.conteudo .Selengkapnya:hover {
+	.ISI .Selengkapnya:hover {
 		margin-left:0;
 	}
  
@@ -230,11 +230,11 @@ nav.menu ul a:hover {
 		display:none;
 	}
  
-	.conteudo {
+	.ISI {
 		margin:25px auto;
 	}
  
-	.conteudo img {
-		margin:-5% 0 25px -5%;
+	.ISI img {
+		margin: 10px 25px;
 	}			
 }
