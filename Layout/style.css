@@ -1,5 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600,300);
- 
+
 body {
 	background: #eee;
 	margin:0;
@@ -38,7 +37,7 @@ nav.menu ul {
 	padding:0;
 	width: 650px;
 	margin:0 0 0;
-	background: #1abc9c;
+	background: #1E90FF;
 	-webkit-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
 	-moz-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
 	box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
@@ -62,7 +61,7 @@ nav.menu ul a {
  
 nav.menu ul a:hover {
 	text-decoration: underline;
-	background:#16a085;
+	background:#1E90FF;
 }
  
 .sidebar {
